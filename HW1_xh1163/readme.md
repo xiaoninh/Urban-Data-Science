@@ -6,7 +6,7 @@ In Homework 1, I was responsible in creating an Environmental variable "PUI2018"
 
 While setting up the enviromental variable and alias, I also need to make sure that they are permanently saved in the bash_profile and can be used for later. 
 
-The Screenshots folder include a screenshot of the bash_profile file where you can see the alias and enviromental variable I created, and a screenshot of my terminal which shows a series of commands and their output to show that the enviromental variable and alias are actually exist and work well. 
+The Screenshots folder include a screenshot of the bash_profile file where you can see the alias and enviromental variable I created, and a screenshot of my terminal which shows a series of commands and their output to show that the enviromental variable and alias actually exist and work well. 
 
 ![Alt text](Screenshots/ScreenShot_1.png)
 
