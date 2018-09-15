@@ -8,7 +8,7 @@ While setting the enviromental variable and alias, I also need to make sure that
 
 The follorwing screenshots are the bash_profile file where one can see the alias and enviromental variable I created, and a screenshot of my terminal that shows this series of commands and their output to show that the enviromental variable and alias actually exsit and work well. 
 
-![Alt text](Screenshots/ScreenShotHW1_1.png)
+![Alt text](Screenshots/ScreenShot_1.png)
 
-![Alt text](Screenshots/ScreenShotHW1_2.png)
+![Alt text](Screenshots/ScreenShot2.png)
 
