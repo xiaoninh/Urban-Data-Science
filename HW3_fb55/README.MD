@@ -25,4 +25,4 @@ python get_bus_info_xh1163.py <MTA_KEY> <BUS_LINE1> <BUS_LINE2>...)
 The program will output the buses information into secreted CSV files, the file will be named as the bus name.
 
 
-Homework partnership: none.
+######  Homework partnership: None.
