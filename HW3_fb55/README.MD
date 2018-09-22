@@ -1,4 +1,4 @@
-## This folder contains Homework 3 for PUI class
+## This folder contains Homework 3 for 2018PUI class
 
 1. In the first part of the HW, we are responsible to perform the deletion of data and its history from a GitHub repo.
 To do that,  I created a test.csv file in the repo, and then deleted the file and its history through command bash.
@@ -23,3 +23,6 @@ of a given line into a CSV file.
 **get_bus_info_xh1163.py** is the document that takes 2 arguments: the API KEY and the Bus Name (in the following format:
 python get_bus_info_xh1163.py <MTA_KEY> <BUS_LINE1> <BUS_LINE2>...) 
 The program will output the buses information into secreted CSV files, the file will be named as the bus name.
+
+
+Homework partnership: none.
