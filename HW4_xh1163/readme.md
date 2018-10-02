@@ -2,9 +2,7 @@
 1.  In Assignment 1, I Wrote an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem.
 
       I generated 100 samples of random sizes N (10 to2000) from each of 5 different distributions, including a Chi-Squared     distribution, a Normal distribution, a Poisson distribution, a Binomial distribution,and a Uniform distribution(500 samples in total), all with the same population mean 100. 
-      For each sample, I plotted the sample mean against the sample size N and described the behavior in the plots in terms of the law of large numbers or Central Limit Theorem, and then plotted the distributions of all sample means together for each distribution
-
-For more details please see documents **HW4_Assignment1_xh1163**
+      For each sample, I plotted the sample mean against the sample size N and described the behavior in the plots in terms of the law of large numbers or Central Limit Theorem, and then plotted the distributions of all sample means together for each distribution. For more details please see documents **HW4_Assignment1_xh1163**
 
 
 
