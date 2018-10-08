@@ -10,7 +10,7 @@ ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning thei
   
   Include the main plot of the paper (the plot that summarized the result)
   
-![main plot](ancovaplosone.png)
+![main plot](Plots.png)
 
 
 ## 3. Assiment 3
