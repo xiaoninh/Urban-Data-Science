@@ -8,7 +8,7 @@ ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning thei
   |||||||||
   
   
-  Include the main plot of the paper (the plot that summarized the result)
+  Include the main plots of the paper (the plots that summarized the result)
   
 ![main plot](Plots.png)
 
