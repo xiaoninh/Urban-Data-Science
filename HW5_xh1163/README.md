@@ -4,7 +4,7 @@
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning their partners,levels of support from parters  | ordinal | 1, Pain sensitivity rating| categorical | 1, age | continuous (could also be categorical) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
+ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning their partners,levels of support from parters  |  categorical  | 1, Pain sensitivity rating| ordinal | 1, age | continuous | 	how both structural and functional components of individuals’ social networks moderate the association between biological sex and experimental pain sensitivity. | Female_pain - Male_pain ≠ 0  When high proportion of intimate types, long relationships, and high level of support, | 0.05 | [Sex Differences in How Social Networks and Relationship Quality Influence Experimental Pain Sensitivity](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078663) |
   |||||||||
   
   
