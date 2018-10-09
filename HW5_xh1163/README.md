@@ -60,6 +60,6 @@ In HW 3, we are responsible to reproduce the analysis of the Hard to Employ prog
 In HW 4, we are reqireed to test if the distribution of trip duration of bikers that ride during the day vs night are different, by using 3 tests: KS, Pearson's, Spearman's, and stated the results in term of the null hypothesis for all tests.
 Worked Alone. 
 
-[citibikes_compare_distributions (Day vs. Night)](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20(Day%20vs.%20Night).ipynb) 
+**[citibikes_compare_distributions (Day vs. Night)]**(https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20(Day%20vs.%20Night).ipynb) 
 
-I also completed the original skeleton notebook for[citibikes_compare_distributions (Age & Gender)](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20%20(Age%20%26%20Gender)_%20finished%20origin%20notebook.ipynb)
+I also completed the original skeleton notebook for [citibikes_compare_distributions (Age & Gender)](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20%20(Age%20%26%20Gender)_%20finished%20origin%20notebook.ipynb)
