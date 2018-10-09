@@ -15,7 +15,7 @@ In HW 2, we are required to choose three tests from a table, find a paper that u
 
 I worked in a group of three, with MingYi He and Chang Du. Each of us was in charge of one test and then we shared and discussed the results with each other. 
 
-The result table is as follow: 
+The result tables are as follows: 
 
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
@@ -27,6 +27,17 @@ ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning thei
 The main plots of the paper (the plots that summarized the result)
   
 ![main plot](Plots.png)
+
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Correlation | 7, age, gender, self-reported honesty, self-reported popularity, self-reported intelligence, class level, block | categorical | 1, cheating behaviors | ordinal | 1, test difficulty | ordinal | How strongly and in what direction are demographics (age, gender), self-perception(self-reported honesty, self-reported popularity, self-reported intelligence), environmental factors(class level, block) related with cheating behavior. | Depends on which IV is tested: take gender for example: (women's score of experimental group/ women's score of control group) > (men's score of experimental group/ men's score of control group) | 0.05 | [Behavioral correlates of cheating: Environmental specificity and reward expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186054) |
+
+The main results of the paper (the plots that summarized the result
+
+![](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/HW5_2_1.png)
+![](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/HW5_2_2.png)
+
 
 
 ## 3. Assiment 3
