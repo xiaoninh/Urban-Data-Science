@@ -13,7 +13,7 @@ The peer repository assigned to me is pmb434. I have forked the repository, crea
 
 In HW 2, we are required to choose three tests from a table, find a paper that uses the test,  and then write out the number of DV, type of DV, number of IV, type of IV, number of control variables, kind of questions as a table in this README.md file.
 
-I worked in a group of three, with MingYi He and Chang Du. Each of us was in charge of one test and then we shared and discussed the results with each other. 
+I worked in a group of three, with MingYi He(mh5172) and Chang Du(cd2682). Each of us was in charge of one test and then we shared and discussed the results with each other. 
 
 The result tables are as follows: 
 
@@ -46,6 +46,8 @@ Logistic Regression | 7, Number of tubes | categorical | 84, combination of feat
 The main plots of the paper (the plots that summarized the result)
   
 ![main plot](logistic.png)
+
+
 
 ## 3. Assiment 3
 
