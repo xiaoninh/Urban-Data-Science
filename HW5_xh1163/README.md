@@ -33,7 +33,7 @@ The main plots of the paper (the plots that summarized the result)
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Correlation | 7, age, gender, self-reported honesty, self-reported popularity, self-reported intelligence, class level, block | categorical | 1, cheating behaviors | ordinal | 1, test difficulty | ordinal | How strongly and in what direction are demographics (age, gender), self-perception(self-reported honesty, self-reported popularity, self-reported intelligence), environmental factors(class level, block) related with cheating behavior. | Depends on which IV is tested: take gender for example: (women's score of experimental group/ women's score of control group) > (men's score of experimental group/ men's score of control group) | 0.05 | [Behavioral correlates of cheating: Environmental specificity and reward expectation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186054) |
 
-The main results of the paper (the plots that summarized the result
+The main results of the paper
 
 ![](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/HW5_2_1.png)
 ![](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/HW5_2_2.png)
@@ -52,3 +52,5 @@ In HW 4, we are reqireed to test if the distribution of trip duration of bikers 
 Worked Alone. 
 
 [citibikes_compare_distributions (Day vs. Night)](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20(Day%20vs.%20Night).ipynb) 
+
+I also completed the original skeleton notebook for the age and gender[citibikes_compare_distributions (Age & Gender)](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20%20(Age%20%26%20Gender)_%20finished%20origin%20notebook.ipynb).ipynb) 
