@@ -1,13 +1,19 @@
-## 1. Assiment 1 - 
+## 1. Assiment 1 
 
-[CitibikeReview_pmb434.md](https://github.com/xiaoninh/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_pmb434.md) 
 
 In HW 1, we are responsible to review our classmate's Citibike project proposal, to verify it their Null and alternative hypotheses are formulated correctly and if the data was properly pre-processed to answer the question, and to suggest an appropriate test to test H0 given the type of data.
 
-The peer repository assigned to me is pmb434. I have forked the repository, created a CitibikeReview markdown file, and requested a pull o the original repository to share the markdown. 
+The peer repository assigned to me is pmb434. I have forked the repository, created a CitibikeReview markdown file, and requested a pull o the original repository to share the markdown (Worked alone).
+
+[CitibikeReview_pmb434.md](https://github.com/xiaoninh/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_pmb434.md) 
+
 
 
 ## 2. Assiment 2
+
+In HW 2, we are required to choose three tests from a table, find a paper that uses the test,  and then write out the number of DV, type of DV, number of IV, type of IV, number of control variables, kind of questions as a table in this README.md file.
+
+I worked in a group of three, with MingYi He and Chang Du. Each of us was in charge of one test and then we shared and discussed the results with each other. 
 
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
@@ -16,10 +22,19 @@ ANCOVA	| 4, gender, proportion of intimate partners,length of time knowning thei
   |||||||||
   
   
-  Include the main plots of the paper (the plots that summarized the result)
+The main plots of the paper (the plots that summarized the result)
   
 ![main plot](Plots.png)
 
 
 ## 3. Assiment 3
+
+In HW 3, we are responsible to reproduce the analysis of the Hard to Employ programs for NY. I stated null hypothesis for the "Convicted of a felony after 3 years" data, and completed both Z and chi-sq tests. Worked Alone. 
+
+[CitibikeReview_pmb434.md](https://github.com/xiaoninh/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_pmb434.md) 
+
 ## 4. Assiment 4
+
+In HW 4, we are reqireed to test if the distribution of trip duration of bikers that ride during the day vs night are different, by using 3 tests: KS, Pearson's, Spearman's. 
+
+[CitibikeReview_pmb434.md](https://github.com/xiaoninh/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_pmb434.md) 
