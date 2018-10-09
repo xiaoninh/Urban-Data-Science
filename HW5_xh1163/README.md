@@ -1,4 +1,12 @@
-## 1. Assiment 1
+## 1. Assiment 1 - 
+
+[CitibikeReview_pmb434.md](https://github.com/xiaoninh/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_pmb434.md) 
+
+In HW 1, we are responsible to review our classmate's Citibike project proposal, to verify it their Null and alternative hypotheses are formulated correctly and if the data was properly pre-processed to answer the question, and to suggest an appropriate test to test H0 given the type of data.
+
+The peer repository assigned to me is pmb434. I have forked the repository, created a CitibikeReview markdown file, and requested a pull o the original repository to share the markdown. 
+
+
 ## 2. Assiment 2
 
 
