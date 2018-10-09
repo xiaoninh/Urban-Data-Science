@@ -31,12 +31,13 @@ The main plots of the paper (the plots that summarized the result)
 
 ## 3. Assiment 3
 
-In HW 3, we are responsible to reproduce the analysis of the Hard to Employ programs for NY. I stated null hypothesis for the "Convicted of a felony after 3 years" data, and completed both Z and chi-sq tests. I stated the results in term of the null hypothesis for all tests. Worked Alone. 
+In HW 3, we are responsible to reproduce the analysis of the Hard to Employ programs for NY. I stated null hypothesis for the "Convicted of a felony after 3 years" data, completed both Z and chi-sq tests, and stated the results in term of the null hypothesis for all tests. Worked Alone. 
 
 [effectivenes of NYC Post-Prison Employment Programs](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) 
 
 ## 4. Assiment 4
 
-In HW 4, we are reqireed to test if the distribution of trip duration of bikers that ride during the day vs night are different, by using 3 tests: KS, Pearson's, Spearman's, and stated the results in term of the null hypothesis for all tests. 
+In HW 4, we are reqireed to test if the distribution of trip duration of bikers that ride during the day vs night are different, by using 3 tests: KS, Pearson's, Spearman's, and stated the results in term of the null hypothesis for all tests.
+Worked Alone. 
 
-[CitibikeReview_pmb434.md](https://github.com/xiaoninh/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_pmb434.md) 
+[citibikes_compare_distributions (Day vs. Night)](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW5_xh1163/citibikes_compare_distributions%20(Day%20vs.%20Night).ipynb) 
