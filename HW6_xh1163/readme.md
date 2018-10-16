@@ -13,6 +13,5 @@ Manipulate panda dataframe, Worked alone.
 
 SQL lab, pracitice SQL query. Worked alone.
 
-[SQL_query_xh1163.ipynb]
-(https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW6_xh1163/SQL_query_xh1163.ipynb) 
+[SQL_query_xh1163.ipynb](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW6_xh1163/SQL_query_xh1163.ipynb) 
 
