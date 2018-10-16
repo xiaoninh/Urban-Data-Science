@@ -5,10 +5,14 @@
 
 Manipulate panda dataframe, Worked alone.
 
-[CitibikeReview_pmb434.md](https://github.com/pmandiola/PUI2018_pmb434/blob/master/HW4_pmb434/CitibikeReview_xh1163.md) 
+[pandas_PLUTO_exercise_instructions.ipynb](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW6_xh1163/pandas_PLUTO_exercise_instructions.ipynb) 
 
 
 
 ## 2. Assiment 2
 
-SQL lab, pracitice SQL command. Worked alone.
+SQL lab, pracitice SQL query. Worked alone.
+
+[SQL_query_xh1163.ipynb]
+(https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW6_xh1163/SQL_query_xh1163.ipynb) 
+
