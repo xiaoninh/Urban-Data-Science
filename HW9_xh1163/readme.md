@@ -3,7 +3,7 @@
 
 
 
-[Plot review for shb395](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW9_xh1163/shb395_plotReview_xh1163.md) 
+[Plot review for shb395](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW9_xh1163/shb395_plotReview_xh1163.md) & 
 [Plot review for sm4372](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW9_xh1163/sm4372_plotReview_xh1163.md) 
 
 ## 2. Assignment 2 - ols & wls practice (worked alone)
