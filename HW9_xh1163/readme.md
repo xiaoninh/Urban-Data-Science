@@ -11,7 +11,7 @@
 
 [Assignment2.ipynb](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW9_xh1163/Assignment2_instructions.ipynb) 
 
-## 2. Assignment 3 - regression practice with world data (worked alone)
+## 2. Assignment 3 - regression practice with real world data (worked alone)
 
 
 [Assignment3.ipynb](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW9_xh1163/Assignment3_instructions.ipynb) 
