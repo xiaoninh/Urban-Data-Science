@@ -1,6 +1,6 @@
 Based on the reviews given by cb4102 and ku373, I improved my plot from HW8 as follow:
 
-![alt text](plot.png)
+![alt text](plot_revised.png)
 
 
 I added a percentage plot in addition to the absolute counts to more clearly compare the relative ridership between two age groups.
