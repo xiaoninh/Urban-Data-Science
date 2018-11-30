@@ -1,5 +1,5 @@
 
-## 1. Assignment 1 -  Work on time seires from the skeleton notebook with inline instructions.(worked alone)
+## 1. Assignment 1 -  Work on time seires from the skeleton notebook (worked alone).
 
 
 
