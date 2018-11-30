@@ -9,4 +9,4 @@ I also edited the titles and labels of the plots based on the feedback, and I de
 I didn't change the side-by-side bar to a stacked bar, however, because the stacked bar is confusing to me and I personally prefer the side-by-side bar since it can show the differences in a straightforward way.
 
 
-![Alt text](Improved plot.png)
+![Alt text](plot.png)
