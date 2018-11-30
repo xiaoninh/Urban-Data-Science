@@ -8,7 +8,8 @@ I also edited the titles and labels of the plots based on the feedback, and I de
 I didn't change the side-by-side bar to a stacked bar, however, because the stacked bar is confusing to me and I personally prefer the side-by-side bar since it can show the differences in a straightforward way.
 
 For original plot, please refer to: https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW8_xh1163/readme.md 
-For code that generates the plots,please refer to: https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW8_xh1163/HW8_plot_code.ipynb 
+
+For code that generates the plots,please refer to: https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW11_xh1163/HW8_plot_code.ipynb
 
 
 
