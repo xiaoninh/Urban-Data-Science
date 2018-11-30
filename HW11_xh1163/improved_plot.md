@@ -1,6 +1,6 @@
 Based on the reviews given by cb4102 and ku373, I improved my plot from HW8 as follow:
 
-
+![alt_text](improved plot.png)
 
 
 
