@@ -1,7 +1,7 @@
 
 ## 1. Assignment 1 -  Work on time seires from the skeleton notebook.
 
-  - Task3 worked with Tiancheng Yin, other parts worked alone.
+  - Task3 discussed and got helped from Tiancheng Yin, other parts worked alone.
 
 
 
