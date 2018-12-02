@@ -1,5 +1,7 @@
 
-## 1. Assignment 1 -  Work on time seires from the skeleton notebook (worked alone).
+## 1. Assignment 1 -  Work on time seires from the skeleton notebook.
+
+  - Worked task 3 with Tiancheng Yin, other parts worked alone.
 
 
 
