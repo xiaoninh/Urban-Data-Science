@@ -1,7 +1,7 @@
 
 ## 1. Assignment 1 -  Work on time seires from the skeleton notebook.
 
-  - Task3 discussed with and got helped from Tiancheng Yin ty1045, other parts worked alone.
+  - On Task 3 I discussed with and got a lot of helps from Tiancheng Yin(ty1045), other parts worked alone.
 
 [subway_timeseries_xh1163](https://github.com/xiaoninh/PUI2018_xh1163/blob/master/HW11_xh1163/subway_timeseries_xh1163.ipynb)
 
