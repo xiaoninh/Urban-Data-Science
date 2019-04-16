@@ -1,4 +1,4 @@
-# PUI2018_xh1163
+## Principles of Urban Informatic 
 
 ### This repository contains works dealing large datasets, and practices of data handling, data visualization, modeling, and machine learning using Python.
 
